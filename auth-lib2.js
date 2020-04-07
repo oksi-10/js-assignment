@@ -219,3 +219,5 @@ function isAuthorized(user, right) {
 }
 
 isAuthorized(allUsers[1],allRights[1]);
+
+//
